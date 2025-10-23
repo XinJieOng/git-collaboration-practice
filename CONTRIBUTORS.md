@@ -9,7 +9,7 @@ Complete Exercise 1 in the README to add your name below.
 ## Contributors List
 
 - **Mehdi Lotfinejad** - Project Creator & Instructor
-
+- **XinJie** - Student
 <!-- Add your name below this line in alphabetical order -->
 <!-- Format: - **Your Name** - Your Role/Contribution -->
 
